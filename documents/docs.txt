@@ -1,0 +1,29 @@
+return_policy: To return a product, you must contact customer support within 30 days of purchase. Ensure you have your receipt and the product in its original packaging. For more details, please refer to our full return policy document.
+
+shipping_info: Our shipping times vary based on location. Typically, it takes 5-7 business days for domestic orders and 10-15 business days for international orders. Expedited shipping options are available for an additional fee.
+
+warranty: All products come with a 1-year warranty covering manufacturing defects. This warranty does not cover damage caused by misuse, accidents, or unauthorized repairs. For more information, please consult our warranty policy.
+
+payment_methods: We accept various payment methods including credit cards (Visa, MasterCard, American Express), PayPal, and Apple Pay. For more details on our payment options, please visit our payment methods page.
+
+customer_support: Our customer support team is available 24/7 to assist you with any queries or issues. You can reach us via phone, email, or live chat on our website. We aim to respond to all inquiries within 24 hours.
+
+account_management: You can manage your account details, track orders, and view your purchase history by logging into your account on our website. If you encounter any issues with your account, please contact our support team.
+
+product_care: To ensure the longevity of your purchase, please follow the care instructions provided with each product. For general tips and detailed care guides, visit our product care page.
+
+loyalty_program: Join our loyalty program to earn points on every purchase, receive exclusive discounts, and enjoy special offers. For more details and to sign up, visit our loyalty program page.
+
+store_locations: We have several retail stores across the country. Use our store locator tool on our website to find the nearest store to you. Store hours and contact information are also available online.
+
+order_tracking: Once your order has shipped, you will receive a tracking number via email. You can use this number to track your package on our website or through the carrier’s tracking portal.
+
+refund_policy: Refunds are issued to the original payment method within 5-7 business days after we receive and inspect the returned product. Please refer to our return policy for more details on how to initiate a return.
+
+faq: For quick answers to common questions, visit our FAQ page. Topics covered include shipping, returns, payment methods, account management, and product care.
+
+gift_cards: Gift cards are available for purchase on our website in various denominations. They can be redeemed online or in-store and have no expiration date. For more information, visit our gift cards page.
+
+security_privacy: We take your privacy and security seriously. Our website uses encryption technology to protect your personal information. For more details, please read our privacy policy and terms of service.
+
+feedback: We value your feedback and use it to improve our products and services. Please visit our feedback page to share your thoughts and suggestions with us.
